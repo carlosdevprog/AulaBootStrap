@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+.navbar{
+    background-color: rgba(25, 104, 25, 0.685);
+}
+.quemsomos{
+    background-color: rgba(66, 66, 211, 0.801);
+    text-align: center;
+    padding: 30px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container-fluid{
+    text-align: center;
+    
+}
+.parceiros{
+    background-color: rgba(0, 255, 255, 0.603);
+    padding: 30px;
+}
+.servicos{
+    padding: 30px;
+    margin: 0px;   
+}
+.bg-footer{
+    background-color: black;
+    padding: 2.5px;
+    color: white;
+}
